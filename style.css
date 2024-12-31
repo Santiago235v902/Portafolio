@@ -222,13 +222,13 @@ justify-content: center;
 section .yo{
     margin-top: 200px;
 }
-ul {
+.yo ul {
     list-style-type: none;
     padding: 0;
     margin: 0;
   }
 
-  ul li {
+.yo  ul li {
     width: 700px;
     background-color: #f1f1f1;
     margin: 10px 0;
@@ -242,12 +242,12 @@ ul {
     transition: transform 0.3s ease, background-color 0.3s ease;
   }
 
-  ul li:hover {
+.yo  ul li:hover {
     transform: translateY(-5px);
     background-color: #e9ecef;
   }
 
-  ul li i {
+ .yo ul li i {
     color: #007bff;
     font-size: 20px;
   }
