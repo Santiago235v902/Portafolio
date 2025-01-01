@@ -255,6 +255,12 @@ section .yo{
     margin:auto;
 }
 @media (max-width:425px) {
+    .yo ul li{
+    width: 300px;
+}
+.yo p{
+    width: 500px;
+}
 .languages{
 margin-left: 100px;
 }
