@@ -284,3 +284,8 @@ transform: translateX(0px); /* Hace la carta 1 más grande y la mueve un poco a 
 scale: 1.0; /* Aumenta su tamaño */
 }
 }
+
+@media sreen(max-widht:425px){
+.yo p{
+    widht:300px;
+}
