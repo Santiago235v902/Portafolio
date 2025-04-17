@@ -13,4 +13,4 @@ Algunas de las características de este portafolio incluyen:
 - **Diseño responsive** que se adapta a móviles y escritorios.
 
   ```bash
-   https://github.com/SantiagoBenjamínV/portafolio.git
+  https://santiago235v902.github.io/Portafolio/
