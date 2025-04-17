@@ -12,4 +12,5 @@ Algunas de las características de este portafolio incluyen:
 - **Proyectos destacados** que incluyen información sobre tecnologías y herramientas utilizadas.
 - **Diseño responsive** que se adapta a móviles y escritorios.
 
-
+  ```bash
+   git clone https://github.com/SantiagoBenjamínV/portafolio.git
